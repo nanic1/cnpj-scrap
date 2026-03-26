@@ -1,0 +1,8 @@
+nome;endereco;cidade;bairro;latitude;longitude;data_lancamento;data_entrega;status;preco;preco_formatado;quartos;suites;banheiros;vagas;area;tipo
+Stillo Barra Residencial;Via Projetada 2;Rio de Janeiro;Barra da Tijuca;-22.9697114;-43.4283216;2022-01-11;2023-03-11;Pronto;380000;R$ 380.000,00;2;1;2;1;47;Apto
+Stillo Barra Residencial;Via Projetada 2;Rio de Janeiro;Barra da Tijuca;-22.9697114;-43.4283216;2022-01-11;2023-03-11;Pronto;380000;R$ 380.000,00;2;1;2;1;48;Apto
+Stillo Barra Residencial;Via Projetada 2;Rio de Janeiro;Barra da Tijuca;-22.9697114;-43.4283216;2022-01-11;2023-03-11;Pronto;490000;R$ 490.000,00;3;1;2;1;59;Apto
+Stillo Barra Residencial;Via Projetada 2;Rio de Janeiro;Barra da Tijuca;-22.9697114;-43.4283216;2022-01-11;2023-03-11;Pronto;600000;R$ 600.000,00;2;1;2;1;65;Apto, Garden / Giardino
+Stillo Barra Residencial;Via Projetada 2;Rio de Janeiro;Barra da Tijuca;-22.9697114;-43.4283216;2022-01-11;2023-03-11;Pronto;650000;R$ 650.000,00;2;1;2;1;70;Apto
+Stillo Barra Residencial;Via Projetada 2;Rio de Janeiro;Barra da Tijuca;-22.9697114;-43.4283216;2022-01-11;2023-03-11;Pronto;650000;R$ 650.000,00;2;1;2;1;71;Apto, Garden / Giardino
+Stillo Barra Residencial;Via Projetada 2;Rio de Janeiro;Barra da Tijuca;-22.9697114;-43.4283216;2022-01-11;2023-03-11;Pronto;650000;R$ 650.000,00;3;1;2;1;75;Apto, Garden / Giardino
